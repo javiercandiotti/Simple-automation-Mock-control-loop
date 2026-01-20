@@ -1,5 +1,3 @@
-# Simple-automation-Mock-control-loop
-
 # Simple Battery Charge/Discharge Control Simulation
 
 Mock control loop that decides whether to charge, discharge, or idle based on battery state of charge (SOC).
